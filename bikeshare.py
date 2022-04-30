@@ -42,7 +42,7 @@ def get_filters():
         month = str(input("Enter a month between January through June or all to view all months: ")).lower()
         if (month not in months and month != 'all'):
             print("You've entered an invalid month or one which data is unavailable, Try again. ")
-            confirmation = input("Would you like to retry? Type yes or no to exit: ")
+            confirmation = input("Would you like to retry? \nType yes or no to exit: ")
             if confirmation == 'yes':
                 continue
             else:
