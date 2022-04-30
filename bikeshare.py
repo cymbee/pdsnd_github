@@ -29,7 +29,7 @@ def get_filters():
         city = str(input("What city will you like to explore? ")).lower()
         if city not in cities:
             print("Entered city is invalid or not in the list. ")
-            confirmation = input("Would you like to retry? Type yes or no to exit: ")
+            confirmation = input("Would you like to retry? \nType yes or no to exit: ")
             if confirmation == 'yes':
                 continue
             else:
