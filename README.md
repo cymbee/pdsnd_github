@@ -12,7 +12,10 @@ New York City, and Washington. A code was used to import the data and answer int
 was used to take in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+Bikeshare.py
 
 ### Credits
 https://github.com/udacity/pdsnd_github
