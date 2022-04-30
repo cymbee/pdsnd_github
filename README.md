@@ -7,7 +7,9 @@ April 11,2022
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+In this project, I used Python to explore data related to bike share systems for three major cities in the United States—Chicago, 
+New York City, and Washington. A code was used to import the data and answer interesting questions about it by computing descriptive statistics. Lastly, a script that 
+was used to take in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
 Include the files used
